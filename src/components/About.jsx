@@ -85,7 +85,7 @@ function About() {
 
           </div>
         </div>
-         <h2 className="font-semibold text-xl text-gray-800 mb-3 mt-5 text-center">WHY AFRICA TECH ACADEMY</h2>
+         <h2 className="font-semibold text-xl text-gray-800 mb-3 mt-20 text-center">WHY AFRICA TECH ACADEMY</h2>
          
          <p className="text-gray-700 text-m" >After nearly a decade of empowering South African learners, educators, and professionals through DBI Academy’s 
           Cisco-aligned programmes, it became clear that the need for accessible, future-focused ICT training was not limited
