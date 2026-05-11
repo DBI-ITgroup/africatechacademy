@@ -100,7 +100,7 @@ export default function Footer() {
     
       <div className="border-t border-gray-800">
         <div className="max-w-7xl mx-auto px-6 py-4 text-sm flex flex-col md:flex-row justify-between items-center">
-          <p>© {new Date().getFullYear()} Africa Tech Academy. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} AfricaTech Academy. All rights reserved.</p>
         </div>
       </div>
     </footer>
