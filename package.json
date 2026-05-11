@@ -1,6 +1,7 @@
 {
   "name": "africatechacademy",
   "private": true,
+  "homepage": "https://dbi-itgroup.github.io/africatechacademy",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
