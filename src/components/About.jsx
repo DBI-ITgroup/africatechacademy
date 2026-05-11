@@ -15,14 +15,14 @@ function About() {
           <div>
             
             <p className="text-gray-700 text-lg leading-relaxed mb-4">
-              Africa Tech Academy is an independent, forward-looking digital
+              AfricaTech Academy is an independent, forward-looking digital
               skills training institution established in 2025 as a spin-off of
               DBI Academy, the renowned training division of DBI Intelligent
               Technology Group (Pty) Ltd.
             </p>
 
             <p className="text-gray-700 text-lg leading-relaxed mb-4">
-              Africa Tech Academy was born out of a bold vision to scale DBI
+              AfricaTech Academy was born out of a bold vision to scale DBI
               Academy’s impact across the African continent. While rooted in
               the foundational work and curriculum of DBI Academy, it now
               operates as a separate entity with its own identity, governance,
@@ -30,7 +30,7 @@ function About() {
             </p>
 
             <p className="text-gray-700 text-lg leading-relaxed">
-              Africa Tech Academy main goals and objectives is to transform Africa
+              AfricaTech Academy main goals and objectives is to transform Africa
                from being a technology consumer but rather a technology producer so 
                that we can take responsibility and accountability of our destiny and
                 that of the future generation.
@@ -77,7 +77,7 @@ function About() {
                   Africa’s digital economy.
                 </p>
                  <p className="text-gray-700 text-xl  mt-6">
-                Africa Tech Academy maintains a strong legacy from DBI Academy but is now charting its course to meet 
+                AfricaTech Academy maintains a strong legacy from DBI Academy but is now charting its course to meet 
                 Africa’s digital talent needs head-on.
               </p>
               </div>
@@ -86,13 +86,16 @@ function About() {
           </div>
         </div>
          <h2 className="font-semibold text-xl text-gray-800 mb-3 mt-20 text-center">WHY AFRICA TECH ACADEMY</h2>
+
+         <h2 className="font-semibold text-xl text-gray-800 mb-3 mt-20 text-center">WHY AFRICATECH ACADEMY</h2>
+
          
          <p className="text-gray-700 text-m" >After nearly a decade of empowering South African learners, educators, and professionals through DBI Academy’s 
           Cisco-aligned programmes, it became clear that the need for accessible, future-focused ICT training was not limited
-           to one country. Africa Tech Academy established a dual digital skills training model that leverage local qualification 
+           to one country. AfricaTech Academy established a dual digital skills training model that leverage local qualification 
            from QCTO and industry related qualifications from global equipment manufacturer such as CompTIA, Microsoft, Cisco, among
             others focusing on skilling, and upskilling IT professionals to infuse a culture of lifelong learning. The decision to establish
-             Africa Tech Academy reflects:</p>
+             AfricaTech Academy reflects:</p>
               {/* CARDS */}
         <div className="grid md:grid-cols-2 gap-6 mt-10">
 
