@@ -59,7 +59,7 @@ function About() {
 
             {/* MISSION */}
             <div className="flex items-start gap-4">
-              <div className="bg-orange-500 w-12 h-12 flex items-center justify-center rounded-full">
+              <div className="bg-orange-500 w-20 h-12 flex items-center justify-center rounded-full">
                 <FaBullseye className="text-white" />
               </div>
 
